@@ -1,0 +1,6 @@
+/Library
+.vs
+/Assets/*.meta
+/Logs
+/obj
+*.meta
